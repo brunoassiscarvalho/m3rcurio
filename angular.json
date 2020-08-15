@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/custom-theme.scss",
               "src/styles.sass"
             ],
             "scripts": []
@@ -123,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "m3rcurio"
+    }
+  },
+  "defaultProject": "m3rcurio",
+  "cli": {
+    "analytics": "b674c701-64ab-4775-866f-b947f1881800"
+  }
 }
